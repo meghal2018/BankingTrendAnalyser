@@ -1,0 +1,20 @@
+Product,Feature ,Cost
+Online Banking,Customer Login,5
+Online Banking,Statement Enquiry,5
+Online Banking,Cheque Deposit,5
+Online Banking,Payment,10
+Online Banking,Fund Transfer,15
+Housing Loan,KYC,15
+Housing Loan,Monthly Instalment Payment,5
+Housing Loan,Prepayment,5
+Debit Card,Upgrade Card,10
+Debit Card,Point-of-Sale,5
+Debit Card,ATM Withdrawal,5
+Debit Card,PIN Change,15
+Foreign Exchange,Multicurrency Card,15
+Foreign Exchange,Reload Card,10
+Foreign Exchange,Surrender Card,10
+Credit Card,Increase Credit Limit,15
+Credit Card,Upgrade Card,10
+Credit Card,Point-of-Sale,15
+Credit Card,Bill Payment,10
